@@ -1,4 +1,4 @@
-USE schoolDB;
+USE schooldb;
 
 CREATE SCHEMA schooldb;
 
