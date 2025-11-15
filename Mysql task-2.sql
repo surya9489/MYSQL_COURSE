@@ -24,6 +24,8 @@ select * from product;
 
 create schema companyDB;
 
+------------------------------------------------------------------------------------------------------
+
 use companyDB;
 
 -- Create a table employees:
